@@ -2,7 +2,7 @@
 name = "poetry-web"
 version = "0.1.0"
 description = ""
-authors = ["Vellamo <vella.kurkela@gmail.com>"]
+authors = []
 readme = "README.md"
 
 [tool.poetry.dependencies]
